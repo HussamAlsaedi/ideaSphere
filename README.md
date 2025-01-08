@@ -43,41 +43,44 @@ IdeaSphere is a dedicated platform that empowers individuals to showcase their c
 ![Use Case Diagram](https://cdn.discordapp.com/attachments/1321830373256335403/1325964561186164766/ideaSphereUseCase.drawio.png?ex=677db43a&is=677c62ba&hm=db0d9c750d1284664d39951e937a190b0a289b3b464040db2fb2f33d58abb08a&)
 
 ---
-### My Work on the Project
-## Controller
--IndividualCompetitionController  
--IndividualOrganizerController
--MonthlyDrawController
--MonthlyDrawParticipantController
+# My Work on the Project
 
-## DTOsIN
--IndividualCompetitionDTOsIN
--IndividualCompetitionExtendDTOIn
--IndividualCompetitionPaymentDTOIn
--IndividualCompetitionUpdateDTOIn
--IndividualOrganizerDTOsIN
-## DTOsOut
--IndividualCompetitionDTOOut
--IndividualOrganizerDTOOut
-MonthlyDrawOutDTO
+### Controller
+- **IndividualCompetitionController**  
+- **IndividualOrganizerController**  
+- **MonthlyDrawController**  
+- **MonthlyDrawParticipantController**  
 
-## Model
--IndividualCompetition
--IndividualOrganizer
--MonthlyDraw
--MonthlyDrawParticipant
+### DTOsIN
+- **IndividualCompetitionDTOsIN**  
+- **IndividualCompetitionExtendDTOIn**  
+- **IndividualCompetitionPaymentDTOIn**  
+- **IndividualCompetitionUpdateDTOIn**  
+- **IndividualOrganizerDTOsIN**  
 
-## Repository
--IndividualCompetitionRepository
--IndividualOrganizerRepository
--MonthlyDrawParticipantRepository
--MonthlyDrawRepository
-##
--EmailSenderJava
--IndividualCompetitionService
--IndividualOrganizerService
--MonthlyDrawParticipantService
--MonthlyDrawService
+### DTOsOut
+- **IndividualCompetitionDTOOut**  
+- **IndividualOrganizerDTOOut**  
+- **MonthlyDrawOutDTO**  
+
+### Model
+- **IndividualCompetition**  
+- **IndividualOrganizer**  
+- **MonthlyDraw**  
+- **MonthlyDrawParticipant**  
+
+### Repository
+- **IndividualCompetitionRepository**  
+- **IndividualOrganizerRepository**  
+- **MonthlyDrawParticipantRepository**  
+- **MonthlyDrawRepository**  
+
+### Services and Others
+- **EmailSenderJava**  
+- **IndividualCompetitionService**  
+- **IndividualOrganizerService**  
+- **MonthlyDrawParticipantService**  
+- **MonthlyDrawService**  
 
 
 
