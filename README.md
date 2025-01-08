@@ -44,6 +44,42 @@ IdeaSphere is a dedicated platform that empowers individuals to showcase their c
 
 ---
 ### My Work on the Project
+## Controller
+-IndividualCompetitionController  
+-IndividualOrganizerController
+-MonthlyDrawController
+-MonthlyDrawParticipantController
+
+## DTOsIN
+-IndividualCompetitionDTOsIN
+-IndividualCompetitionExtendDTOIn
+-IndividualCompetitionPaymentDTOIn
+-IndividualCompetitionUpdateDTOIn
+-IndividualOrganizerDTOsIN
+## DTOsOut
+-IndividualCompetitionDTOOut
+-IndividualOrganizerDTOOut
+MonthlyDrawOutDTO
+
+## Model
+-IndividualCompetition
+-IndividualOrganizer
+-MonthlyDraw
+-MonthlyDrawParticipant
+
+## Repository
+-IndividualCompetitionRepository
+-IndividualOrganizerRepository
+-MonthlyDrawParticipantRepository
+-MonthlyDrawRepository
+##
+-EmailSenderJava
+-IndividualCompetitionService
+-IndividualOrganizerService
+-MonthlyDrawParticipantService
+-MonthlyDrawService
+
+
 
 
 
